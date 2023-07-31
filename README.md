@@ -24,7 +24,5 @@
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" align="center" />
   <img alt="" src="" align="center" />
 </div>
-<div style="display: inline_block">
-  <img alt="VsCode" src="[https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg"/>
-</div>
+
 
