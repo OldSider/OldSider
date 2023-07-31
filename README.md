@@ -6,7 +6,7 @@
 <div style="display: flex">
 
 ![OldSider GitHub stats](https://github-readme-stats.vercel.app/api?username=OldSider&show_icons=true&theme=synthwave)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/OldSider/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OldSider&hide=javascript,html)
   
 </div>
