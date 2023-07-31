@@ -16,6 +16,7 @@
   <img alt="ExpressJs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" align="center" />
   <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" align="center" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" align="center" />
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" align="center" />
 </div>
 <div  style="display: inline_block">
   <br/>
