@@ -4,11 +4,9 @@
 )
 
 <div style="display: flex">
-
-![OldSider GitHub stats](https://github-readme-stats.vercel.app/api?username=OldSider&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OldSider&hide=javascript,html)
   
+![OldSider GitHub stats](https://github-readme-stats.vercel.app/api?username=OldSider&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OldSider&hide=javascript,html)
 </div>
 
 
