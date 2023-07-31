@@ -4,3 +4,5 @@
 )
 
 ![OldSider GitHub stats](https://github-readme-stats.vercel.app/api?username=OldSider&show_icons=true&theme=synthwave)
+
+## Most Used Technologies
