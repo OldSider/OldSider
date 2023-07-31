@@ -24,4 +24,7 @@
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" align="center" />
   <img alt="" src="" align="center" />
 </div>
+<div>
+  <img alt="VsCode" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
+</div>
 
