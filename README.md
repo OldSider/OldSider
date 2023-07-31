@@ -2,9 +2,15 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaovitorsampaio2022
 )
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)
 
-  ![OldSider GitHub stats](https://github-readme-stats.vercel.app/api?username=OldSider&show_icons=true&theme=synthwave)
+<div style="display: inline_block">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)
+![OldSider GitHub stats](https://github-readme-stats.vercel.app/api?username=OldSider&show_icons=true&theme=synthwave)
+  
+</div>
+
+
 
 
 ## Technologies
