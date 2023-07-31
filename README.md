@@ -2,12 +2,9 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/joaovitorsampaio2022
 )
-<div style="display:flex">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OldSider&hide_progress=true)
- 
+
+
   ![OldSider GitHub stats](https://github-readme-stats.vercel.app/api?username=OldSider&show_icons=true&theme=synthwave)
-</div>
 
 
 ## Most Used Technologies
