@@ -6,7 +6,7 @@
 <div style="display: flex">
   
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=OldSider&show_icons=true&theme=radical)
+![OldSider GitHub stats](https://github-readme-stats.vercel.app/api?username=OldSider&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OldSider&hide=css,html)
 
 </div>
