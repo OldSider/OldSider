@@ -6,8 +6,7 @@
 <div style="display: flex">
   
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OldSider)](https://github.com/OldSider/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OldSider&show_icons=true)
+![OldSider GitHub stats](https://github-readme-stats.vercel.app/api?username=OldSider&show_icons=true&theme=radical)
 
 </div>
 
