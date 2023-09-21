@@ -6,7 +6,7 @@
 <div style="display: flex">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oldsider&show_icons=true&theme=dracula)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=OldSider&layout=compact&langs_count=8&card_width=320&theme=dracula)
 </div>
 
 
